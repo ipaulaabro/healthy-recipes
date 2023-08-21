@@ -2,6 +2,13 @@ img {
   height: 150px;
 }
 
+h1,
+h2,
+p,
+li {
+  font-family: Helvetica, sans-serif;
+}
+
 .description {
   font-size: 20px;
 }
